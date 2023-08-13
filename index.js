@@ -206,8 +206,7 @@ secondGameElement.innerHTML = secondGameDisplay;
 secondGameContainer.append(secondGameElement);
 
 /************************************************************************************
- * Extra Challenge : Select & display the top 2 games
- * Skills used: spread operator, destructuring, template literals, sort
+ * Extra Challenge :
  */
 
 // Added a floating "Back to top button"
