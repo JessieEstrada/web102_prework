@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Crowdfunding Games App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jessie Estrada**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Crowdfunding Games App** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -35,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the challenges I faced when creating this app was working with the destructuring of an object. I had to ensure to use the correct syntax and realyl think about what I was going to grab from my list of games. Another challenge that I faced was utilizing the ternary operator to make the text of the top description change depending on the number of games.
 
 ## License
 
