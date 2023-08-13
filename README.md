@@ -21,10 +21,6 @@ The following **optional** features are implemented:
 * [x] Included a Navigation Bar at the top of the website to allow the user to go to both the Stats section, and Our Games section
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![](https://github.com/JessieEstrada/web102_prework/blob/main/SeaMonsterCrowdFunding.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
