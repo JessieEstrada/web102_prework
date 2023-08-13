@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Back to top button that allows the user to quickly be sent back up to the top of the screen
+* [x] Included a Navigation Bar at the top of the website to allow the user to go to both the Stats section, and Our Games section
 
 ## Video Walkthrough
 
