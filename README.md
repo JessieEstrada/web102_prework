@@ -6,7 +6,7 @@ Submitted by: **Jessie Estrada**
 
 Time spent: **2** hours spent in total
 
-## Required Features
+## Required Features (Completed all Challenges)
 
 The following **required** functionality is completed:
 
