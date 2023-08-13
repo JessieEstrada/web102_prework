@@ -36,7 +36,7 @@ Some of the challenges I faced when creating this app was working with the destr
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jessie Estrada]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
