@@ -6,7 +6,7 @@ Submitted by: **Jessie Estrada**
 
 Time spent: **2** hours spent in total
 
-## Required Features (Completed all Challenges)
+## Required Features 
 
 The following **required** functionality is completed:
 
@@ -14,16 +14,17 @@ The following **required** functionality is completed:
 * [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] Completed all 7 Challenges.
 
 The following **optional** features are implemented:
 
-* [x] Back to top button that allows the user to quickly be sent back up to the top of the screen
-* [x] Included a Navigation Bar at the top of the website to allow the user to go to both the Stats section, and Our Games section
+* [x] Back to top button that allows the user to quickly be sent back up to the top of the screen.
+* [x] Included a Navigation Bar at the top of the website to allow the user to go to both the Stats section, and Our Games section.
 
 ## Video Walkthrough
 ![](https://github.com/JessieEstrada/web102_prework/blob/main/SeaMonsterCrowdFunding.gif)
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap
+GIF created with [LICEcap](https://www.cockos.com/licecap/).
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
