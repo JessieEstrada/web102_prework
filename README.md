@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 * [x] Included a Navigation Bar at the top of the website to allow the user to go to both the Stats section, and Our Games section.
 
 ## Video Walkthrough
-![](https://github.com/JessieEstrada/web102_prework/blob/main/SeaMonsterCrowdFunding.gif)
+![](https://github.com/JessieEstrada/CodePath-Web102-Project-1/blob/main/CommunityBoard.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).
 <!-- Recommended tools:
