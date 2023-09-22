@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 ![](https://github.com/JessieEstrada/web102_prework/blob/main/SeaMonsterCrowdFunding.gif)
 
 
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).
 <!-- Recommended tools:
